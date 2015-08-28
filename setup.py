@@ -134,7 +134,7 @@ setup(
     long_description=LONG_DESCRIPTION,
     install_requires=[
         "django-helper>=0.8.1",
-        "PIL",
+        #"PIL",
         ],
     classifiers=[
         "Programming Language :: Python",
